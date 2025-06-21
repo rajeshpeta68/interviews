@@ -1,0 +1,61 @@
+•  I have around 9  years of experience in Both Devops and Cloud  infrastructure.
+ 
+• I started my  career as Linux Engineer and  moved to Release management team which is taking about  production releases. 
+
+• I was  part of all production releases and providing  on demand solutions for Deployment failures.
+   
+   monitorint the resources
+   creating the volumes
+   attaching volumes
+   sending reports 
+   monitorint the logs 
+   creating symlinkes , it was a really a basic stuff .
+
+• Later I moved to technology expert/Engineering  team which migrate/introduce new technologies in the place of traditional technologies.
+
+• Since  then  I got a chance to work for projects to create the infrastructure from scratch which helped me understand and explore  multiple technologies .
+
+• So far I worked for coca-cola , Anthem, cigna, BNYM, Nokia  and I was involved in end to end infrastructure creation starting from blueprint design.
+
+	• Also I was involved in cost optimization discussions as well
+	• So I have been into creating new application infrastructure in cloud and also involved in existing traditional application infrastructure moving into cloud.
+
+• I have been involved into lift and shift mechanism for pushing existing applications into cloud.
+
+• I have been into design discussions , Architecture planning's, Cost planning, Security and vulnerability mapping, bringing/introducing new technologies, implementing and supporting the team 24/7
+
+• So coming to technologies  I have been experienced so far.
+
+• GIt as a source code management
+
+Maven and gradle as a Build tools
+
+Jenkins as continuous integration and automations for scripts and jobs
+
+    Jenkins space I have worked as a plain configurations as UI and comfortable with declarative pipelines as well Groovy scripts
+Shell scripts
+And Ansilbe for configuration management and servers handling and Ansible tower for Continuous deployments
+Udeploy for drag and deployment its an IBM entity
+Sonarqube as code quality as well veracode and white shift
+Python 
+Dockres
+AWS
+Ec2 ,ELB, S3, VPC(subnet,igw)
+
+
+Breaking the requirement into pieces and provide the solutions
+
+Starting from creating branches (GIT) getting the design patterns / Blueprints from architecture team.
+
+Making a CI/CD pipelines for continuous integration and continuos deployment. Makinf developers life easy capturing often failures and providing perm solutions for them
+
+i used to setup ansible tower for managing servers and rolling updates/upgrades , everything should be controllable from single source but it is not a single point of failures
+
+Provisioning servers and maintiaining them
+
+always look for value additions to the existing processess/ new implementations
+
+Convincing business with new approaches with the diffferent set of use cases
+
+
+
